@@ -1,4 +1,4 @@
-# The Espresso License
+# The Espresso License :coffee:
 
 ## Introduction
 
