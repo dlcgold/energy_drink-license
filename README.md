@@ -32,7 +32,7 @@ By using, modifying and/or republishing this software you acknowledge all of the
 above, and pledge to buy a cup of coffee to the authors of this software, 
 if you ever meet them.
 
-Espresso: a license for humans derived from the "SUSHI-WARE" license.
+Espresso: a license for humans, derived from the "SUSHI-WARE" license.
 
 ```
 
