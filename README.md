@@ -8,33 +8,7 @@ This is frustrating.
 
 Finally, I came across the [SUSHI-WARE](https://github.com/MakeNowJust/sushi-ware) license, itself an alcohol-free spin of the [BEER-WARE](https://people.freebsd.org/~phk/) license: I was struck by the purpose of the license, but... sushi? Beer? Don't get me wrong, I really like Japanese food (I'd rather have udon or tofu though) and I love beer, but while studying or writing software I absolutely need Espresso. Doppio, ristretto, senza zucchero.
 
-So, under these terms and conditions, the Espresso license was born.
-
-## License
-
-```
-The Espresso License
-
-Copyright <YEAR>, <AUTHOR>
-
-I, author of this software, hereby grant you the rights to use, modify and/or 
-republish this software free of charge as long as the following statements are 
-not infringed:
- - You must not remove or alter this notice in any way, under any circumstances, 
-   except by adding your own copyright notice above the existing ones.
- - You must not remove any reference to this license or any instance of 
-   the above copyright notices which appear throughout this software's sources.
- - The authors and holders of the above copyright notices must not be 
-   held liable of any claims, since any software distributed under this license
-   is provided "as is".
- 
-By using, modifying and/or republishing this software you acknowledge all of the 
-above, and pledge to buy a cup of coffee to the authors of this software, 
-if you ever meet them.
-
-Espresso: a license for humans, derived from the "SUSHI-WARE" license.
-
-```
+So, under these terms and conditions, the [Espresso license](LICENSE) was born.
 
 ## Applying
 
