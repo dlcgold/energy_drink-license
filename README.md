@@ -40,18 +40,18 @@ Espresso: a license for humans, derived from the "SUSHI-WARE" license.
 
 > Please remind to read the *Notice* section below.
 
-The process is easy as usual: copy the `LICENSE` file into your project's root folder, add your *copyright notice* and push.
+The process is easy as usual: copy the [`LICENSE`](LICENSE) file into your project's root folder, add your *copyright notice* and push.
 
 
-![Espresso License :coffee:](https://img.shields.io/badge/license-Espresso%20☕-7890F0.svg)
+[![Espresso License :coffee:](https://img.shields.io/badge/license-Espresso%20☕-7890F0.svg)](https://github.com/jack23247/espresso-license)
 
 Following [MakeNowJust](https://github.com/MakeNowJust)'s footsteps I also created this nice badge (a truly fascinating process...) you can include in your documentation or `README.md`, by copying the line below:
 
 ```markdown
-![Espresso License :coffee:](https://img.shields.io/badge/license-Espresso%20☕-7890F0.svg)
+[![Espresso License :coffee:](https://img.shields.io/badge/license-Espresso%20☕-7890F0.svg)](https://github.com/jack23247/espresso-license)
 ```
 
-If you do apply, please sign the [guestbook](./GUESTBOOK)!
+If you do apply, please sign the [guestbook](GUESTBOOK.md)!
 
 ## Contribute
 
