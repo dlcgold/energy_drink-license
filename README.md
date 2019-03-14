@@ -43,6 +43,6 @@ Jokes aside. If you'd like to license your project under the Energy Drink licens
 
 ## Copyright
 
-Copyright © 2018, Jacopo Maltagliati [[@jack23247](https://github.com/jack23247)]
+Copyright © 2018, Davide Cozzi [[@dlcgold](https://github.com/dlcgold)]
 
 © TSUYUSATO ["MakeNowJust"](https://github.com/MakeNowJust) Kitsune <<make.just.on@gmail.com>> 2016
