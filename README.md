@@ -6,7 +6,7 @@ Since I don't have a degree in Law I tend to hit "agree" under the kilometric bl
 
 This is frustrating.
 
-Finally, I came across the [SUSHI-WARE](https://github.com/MakeNowJust/sushi-ware) license, itself an alcohol-free spin of the [BEER-WARE](https://people.freebsd.org/~phk/) license: I was struck by the purpose of the license, but... sushi? Beer? Don't get me wrong, I really like Japanese food (I'd rather have udon or tofu though) and I love beer, but while studying or writing software I absolutely need Energy Drink, something more "powerful" than simple coffee [COFFE-WARE](https://github.com/jack23247/espresso-license).
+Finally, I came across the [SUSHI-WARE](https://github.com/MakeNowJust/sushi-ware) license, itself an alcohol-free spin of the [BEER-WARE](https://people.freebsd.org/~phk/) license: I was struck by the purpose of the license, but... sushi? Beer? Don't get me wrong, I really like Japanese food (I'd rather have udon or tofu though) and I love beer, but while studying or writing software I absolutely need Energy Drink, something more "powerful" than simple coffee, take a look at [COFFE-WARE](https://github.com/jack23247/espresso-license).
 
 So, under these terms and conditions, the [Energy Drink license](LICENSE) was born.
 
