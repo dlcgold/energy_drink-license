@@ -1,4 +1,4 @@
-# The Energy Link License :boom:
+# The Energy Drink License :boom:
 
 ## Introduction
 
