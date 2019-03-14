@@ -17,12 +17,12 @@ So, under these terms and conditions, the [Energy Drink license](LICENSE) was bo
 The process is easy as usual: copy the [`LICENSE`](LICENSE) file into your project's root folder, add your *copyright notice* and push.
 
 
-[![Energy Drink License :boom:](https://img.shields.io/badge/license-energy_drink%20☕-7890F0.svg)](https://github.com/dlcgold/energy_drink-license)
+[![Energy Drink License :boom:](https://img.shields.io/badge/license-energy_drink)](https://github.com/dlcgold/energy_drink-license)
 
 Following [MakeNowJust](https://github.com/MakeNowJust)'s footsteps I also created this nice badge (a truly fascinating process...) you can include in your documentation or `README.md`, by copying the line below:
 
 ```markdown
-[![Energy Drink License :boom:](https://img.shields.io/badge/license-energy_drink%20☕-7890F0.svg)](https://github.com/dlcgold/energy_drink-license)
+[![Energy Drink License :boom:](https://img.shields.io/badge/license-energy_drink)](https://github.com/dlcgold/energy_drink-license)
 ```
 
 If you do apply, please sign the [guestbook](GUESTBOOK.md)!
